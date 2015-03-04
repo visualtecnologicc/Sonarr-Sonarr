@@ -1,0 +1,74 @@
+##Usenet##
+
+###Newznab###
+
+Newznab is a standardized API used by many usenet indexing sites.
+
+Several presets are available, but most require an API key to be accessible.
+
+###Omgwtfnzbs###
+
+Website: https://omgwtfnzbs.org/  
+
+###Wombles###
+
+Wombles Index is a free RSS feed that reports recent public releases. Wombles does not support (backlog) searches and thus can only be used to grab new releases as they are posted.
+
+###Fanzub###
+
+Website: http://fanzub.com/
+
+Indexer for Japanese media (Anime) exclusively.
+
+
+##Torrents##
+
+###BitMeTv###
+
+Website: http://www.bitmetv.org/
+
+###BroadcastheNet###
+
+Website: https://broadcasthe.net/
+
+###Eztv###
+
+Website: https://eztv.it/
+
+###IPTorrents###
+
+Website: http://www.iptorrents.com/t
+
+###KickassTorrents###
+
+Website: https://kickass.to/
+
+**NOTE:** By default only verified releases will be shown, this can be changed in the KAT settings within Sonarr. If you're not seeing results for in some searches, it is likely because they are not verified results.
+
+###Nyaa###
+
+Website: http://www.nyaa.se/
+
+Torrent Indexer for Japanese media (Anime) exclusively.
+
+###Torrentleech###
+
+Website: http://torrentleech.org/
+
+##Supported Features##
+
+| Indexer         | Recent Feed | Standard | Season |  Daily  | Anime | Specials |
+|-----------------|:-----------:|:--------:|:------:|:-------:|:-----:|:--------:|
+| **Usenet**      |             |          |        |         |       |          |
+| Newznab         |     Yes     |    Yes   |   Yes  |   Yes   |  Yes  |   Basic  |
+| Fanzub          |     Yes     |     -    |    -   |    -    |  Yes  |     -    |
+| Omgwtfnzbs      |     Yes     |    Yes   |   Yes  |   Yes   |   -   |   Basic  |
+| Wombles         |     Yes     |     -    |    -   |    -    |   -   |     -    |
+| **Torrent**     |             |          |        |         |       |          |
+| BitMeTv         |     Yes     |     -    |    -   |    -    |   -   |     -    |
+| BroadcastheNet  |     Yes     |    Yes   |   Yes  |   Yes   |   -   |     -    |
+| Eztv            |     Yes     |    Yes   |   Yes  |    -    |   -   |     -    |
+| IPTorrents      |     Yes     |     -    |    -   |    -    |   -   |     -    |
+| KickassTorrents |     Yes     |    Yes   |   Yes  |   Yes   |   -   |   Basic  |
+| Nyaa            |     Yes     |     -    |    -   |    -    |  Yes  |   Basic  |
+| Torrentleech    |     Yes     |     -    |    -   |    -    |   -   |     -    |
